@@ -7,3 +7,9 @@
   margin: 0 auto;
   max-width: 100%;
 }
+@media (max-width: 1024px) {
+  .lead {
+    padding: 0;
+    width: 100%;
+  }
+}
