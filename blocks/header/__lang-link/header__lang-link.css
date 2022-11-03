@@ -1,5 +1,4 @@
 .header__lang-link {
-  color: white;
   text-decoration: none;
   font-style: normal;
   font-weight: 400;
@@ -7,6 +6,7 @@
   line-height: 28px;
   opacity: 1;
   transition: opacity 0.4s;
+  color: white;
 }
 
 .header__lang-link:not(:last-child) {

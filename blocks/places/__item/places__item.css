@@ -1,0 +1,14 @@
+.places__item:not(:first-child) {
+  margin-top: 80px;
+}
+
+@media (max-width: 1024px) {
+  .places__item:not(:first-child) {
+    margin-top: 73px;
+  }
+}
+@media (max-width: 768px) {
+  .places__item:not(:first-child) {
+    margin-top: 50px;
+  }
+}

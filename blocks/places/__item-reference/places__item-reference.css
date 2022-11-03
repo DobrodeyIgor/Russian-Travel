@@ -1,0 +1,10 @@
+.places__item-reference {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 768px) {
+  .places__item-reference {
+    margin-top: 32px;
+  }
+}

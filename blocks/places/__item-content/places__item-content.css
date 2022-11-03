@@ -1,0 +1,10 @@
+.places__item-content {
+  display: flex;
+  margin-top: 48px;
+}
+@media (max-width: 768px) {
+  .places__item-content {
+    margin-top: 32px;
+    flex-wrap: wrap;
+  }
+}
