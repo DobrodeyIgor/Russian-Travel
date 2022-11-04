@@ -8,12 +8,12 @@
   box-sizing: border-box;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
   .intro {
     padding: 88px 24px 0;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .intro {
     padding: 64px 16px 0;
   }

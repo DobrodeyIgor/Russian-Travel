@@ -3,7 +3,7 @@
   flex-direction: column;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .places__item-reference {
     margin-top: 32px;
   }

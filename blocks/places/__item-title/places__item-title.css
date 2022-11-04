@@ -4,17 +4,17 @@
   font-size: 72px;
   line-height: 76px;
   margin: 0;
-  width: 40%;
+  width: 45%;
   margin-right: 40px;
   flex: none;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1279px) {
   .places__item-title {
     margin-right: 32px;
   }
 }
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
   .places__item-title {
     font-size: 42px;
     line-height: 46px;
@@ -23,7 +23,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .places__item-title {
     font-size: 32px;
     line-height: 35px;

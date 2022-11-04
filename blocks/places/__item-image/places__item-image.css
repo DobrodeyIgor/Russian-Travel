@@ -1,21 +1,21 @@
 .places__item-image {
   height: min-content;
-  width: 40%;
+  width: 45%;
   margin-right: 40px;
   flex: none;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1279px) {
   .places__item-image {
     margin-right: 32px;
   }
 }
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
   .places__item-image {
     margin-right: 28px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .places__item-image {
     width: 100%;
     margin-right: 0;

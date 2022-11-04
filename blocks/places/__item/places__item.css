@@ -2,12 +2,12 @@
   margin-top: 80px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
   .places__item:not(:first-child) {
     margin-top: 73px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .places__item:not(:first-child) {
     margin-top: 50px;
   }
