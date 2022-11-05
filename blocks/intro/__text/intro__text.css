@@ -5,5 +5,22 @@
   line-height: 163%;
   max-width: 690px;
   margin: 40px 0 0;
+  padding: 0;
   word-wrap: break-word;
+}
+@media (max-width: 1023px) {
+  .intro__text {
+    min-width: 720px;
+  }
+}
+@media (max-width: 767px) {
+  .intro__text {
+    min-width: 288px;
+  }
+}
+@media (max-width: 319px) {
+  .intro__text {
+    min-width: 0;
+    max-width: 288px;
+  }
 }

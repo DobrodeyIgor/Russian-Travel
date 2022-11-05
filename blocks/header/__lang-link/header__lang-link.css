@@ -8,9 +8,6 @@
   transition: opacity 0.4s;
   color: white;
 }
-.header__lang-link.active {
-  border-bottom: 2px solid white;
-}
 
 .header__lang-link:hover {
   opacity: 0.8;

@@ -4,7 +4,7 @@
   font-size: 72px;
   line-height: 76px;
   margin: 0;
-  width: 45%;
+  width: 47%;
   margin-right: 40px;
   flex: none;
 }
@@ -12,13 +12,14 @@
 @media (max-width: 1279px) {
   .places__item-title {
     margin-right: 32px;
+    width: 47.5%;
   }
 }
 @media (max-width: 1023px) {
   .places__item-title {
     font-size: 42px;
     line-height: 46px;
-
+    width: 47%;
     margin-right: 28px;
   }
 }

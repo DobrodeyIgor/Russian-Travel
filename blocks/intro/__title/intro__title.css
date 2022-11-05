@@ -6,10 +6,21 @@
   max-width: 690px;
   margin: 0;
 }
-
+@media (max-width: 1023px) {
+  .intro__title {
+    min-width: 720px;
+  }
+}
 @media (max-width: 767px) {
   .intro__title {
     font-size: 32px;
     line-height: 35px;
+    min-width: 288px;
+  }
+}
+@media (max-width: 319px) {
+  .intro__title {
+    min-width: 0;
+    max-width: 288px;
   }
 }
